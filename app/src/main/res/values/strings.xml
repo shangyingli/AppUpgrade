@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppUpgrade</string>
+    <string name="help">request permission</string>
+    <string name="string_help_text">the permission is helpful for your</string>
+    <string name="quit">exit</string>
+    <string name="settings">settng</string>
+</resources>
